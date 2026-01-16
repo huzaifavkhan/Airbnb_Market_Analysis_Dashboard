@@ -11,3 +11,5 @@ This Power BI project explores Airbnb open data from New York City to uncover in
 The dataset and project aim to help travelers, hosts, and analysts understand NYC’s Airbnb market dynamics, from affordability to popularity across boroughs. The interactive visuals support insights into market shifts and competitive pressures.
 
 ## **Dataset:** [Airbnb Open Data on Kaggle](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata?resource=download&ref=hackernoon.com)
+
+## **Link to view the dashboard:** [BI DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiYWYyZTZhMWUtYTJiMy00MGZlLTg5ODMtMjBmYWRmZmQ2MmQwIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9&pageName=ReportSection)
